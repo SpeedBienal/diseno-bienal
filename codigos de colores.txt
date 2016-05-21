@@ -1,0 +1,6 @@
+Musica: #FBB260
+Audiovisual: #F17F4A
+Visuales: #43518C
+Escenicas: #EE6A66
+Letras: #25B18B
+Pagina principal: #2C2F48
